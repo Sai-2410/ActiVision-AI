@@ -1,4 +1,4 @@
-# 🏃 ActiVision AI – Real Time Human Activity Recognition Using Deep Learning
+# 🏃 Real Time Human Activity Recognition Using Deep Learning
 
 A Flask-based **Human Activity Recognition (HAR)** system that uses **computer vision** and **deep learning** to identify human activities in real time through a laptop camera.
 
