@@ -233,38 +233,20 @@ Responsibilities include:
 HUMAN_ACTIVITY_FINAL/
 │
 ├── app.py
-│   └── Flask application entry point that manages routes,
-│       user requests, and real-time activity prediction.
-│
 ├── data_collection.py
-│   └── Captures pose landmarks using MediaPipe and
-│       generates datasets for model training.
-│
 ├── data_training.py
-│   └── Performs data preprocessing, feature preparation,
-│       model training, and saves the trained model.
-│
 ├── inference.py
-│   └── Loads the trained model and performs
-│       real-time human activity recognition.
-│
 ├── model.h5
-│   └── Pre-trained deep learning model used for activity recognition.
-│
 ├── labels.npy
-│   └── Stores activity labels used during inference.
-│
 ├── requirements.txt
-│   └── Python dependencies required to run the project.
 │
 ├── templates/
-│   ├── home.html      # Activity recognition dashboard
-│   └── login.html     # User login interface
+│   ├── home.html
+│   └── login.html
 │
 ├── static/
 │   ├── bg.jpg
 │   └── styles/
-│       └── Static assets including CSS, images, and frontend resources.
 │
 ├── Snapshots/
 │   ├── Snap-11.png
@@ -272,7 +254,6 @@ HUMAN_ACTIVITY_FINAL/
 │   └── Snap-33.jpg
 │
 └── README.md
-    └── Project documentation.
 ```
 
 ---
