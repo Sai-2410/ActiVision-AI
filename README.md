@@ -53,7 +53,7 @@ ActiVision AI is a Flask-based Human Activity Recognition (HAR) system that leve
 
 # 🏃 Supported Activities
 
-ActiVision AI is capable of recognizing the following human activities in real time:
+ActiVision AI currently recognizes the following activities in real time. The underlying pipeline is extensible and can be trained to support additional human activities.
 
 - Walking
 - Running
