@@ -1,4 +1,4 @@
-# 🏃 ActiVision AI -- Real-Time Human Activity Recognition Using Deep Learning
+# 🏃 ActiVision AI - Real-Time Human Activity Recognition Using Deep Learning
 
 ActiVision AI is a Flask-based Human Activity Recognition (HAR) system that leverages MediaPipe pose estimation and deep learning to recognize human activities in real time using a standard laptop webcam. The project demonstrates an end-to-end AI workflow encompassing pose detection, feature extraction, model training, inference, and deployment through an interactive web application.
 
