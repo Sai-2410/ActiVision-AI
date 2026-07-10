@@ -105,8 +105,11 @@ The deep learning models were trained and evaluated using widely recognized huma
 
 | Dataset | Description |
 |----------|-------------|
-| **UCI HAR** | Smartphone sensor-based dataset containing accelerometer and gyroscope readings collected from 30 participants performing six daily activities. | UCI Machine Learning Repository |
-| **UCF101** | Large-scale real-world video dataset containing over 13,000 videos across 101 human action categories, commonly used for action recognition research. | [Kaggle Dataset](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition) |
+| **UCI HAR** | Smartphone sensor-based dataset containing accelerometer and gyroscope readings collected from 30 participants performing six daily activities. |
+| **UCF101** | Large-scale real-world video dataset containing over 13,000 videos across 101 human action categories, commonly used for action recognition research. |
+
+**UCF101 Dataset Source:**  
+https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition
 
 ---
 
@@ -373,10 +376,10 @@ The browser will open the ActiVision AI application and begin real-time activity
 
 This project was developed collaboratively by:
 
-| Contributor | Responsibilities |
+| Team Member | Role & Contributions |
 |-------------|-----------------------|
-| **Sai Ravi Chandran** | Designed and developed the frontend, built the Flask backend, integrated the trained deep learning model, implemented real-time inference, contributed to feature engineering, tested the complete application, and deployed the end-to-end system. |
 | **Sirisha V Ramana** | Performed data collection, exploratory data analysis (EDA), data preprocessing, contributed to feature engineering, trained and evaluated multiple deep learning models, optimized model performance, and selected the final activity recognition model. |
+| **Sai Chandran R** | Designed and developed the frontend, built the Flask backend, integrated the trained deep learning model, implemented real-time inference, contributed to feature engineering, tested the complete application, and deployed the end-to-end system. |
 
 ---
 
@@ -388,7 +391,7 @@ This project was developed collaboratively by:
 
 # ⚠️ Disclaimer
 
-This project is intended for educational and research purposes. The real-time activity predictions depend on webcam quality, body visibility, environmental conditions, and the trained model, and should not be considered a
+> This project is intended for educational and research purposes. The real-time activity predictions depend on webcam quality, body visibility, environmental conditions, and the trained model, and should not be considered a
 substitute for professional activity monitoring or safety-critical applications.
 
 ---
